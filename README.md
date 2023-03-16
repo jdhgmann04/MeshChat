@@ -26,5 +26,6 @@ You can customize the default topic by modifying the topic_var.set() line in the
 python
 Copy code
 topic_var.set("your_desired_topic")
+
 License
 This MQTT chat application is open-source and available under the MIT License. Please refer to the LICENSE file for more details.
